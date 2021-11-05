@@ -1,5 +1,4 @@
 # Factor_model_freq_components #
-# Factor Modeling of Multivariate Time Series: Frequency Components Approach #
 
 Preliminaries: Load the R libraries in lines 9-16 of the file factor_analysis_functions.R. 
 
